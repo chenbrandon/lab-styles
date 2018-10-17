@@ -17,5 +17,9 @@
     <style name="Label" parent="TextStyle">
         <item name="android:textStyle">bold</item>
     </style>
+    
+    <style name="Gold" parent="Label">
+        <item name="android:background">#b7a57a</item>
+    </style>
 
 </resources>
