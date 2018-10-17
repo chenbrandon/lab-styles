@@ -22,4 +22,8 @@
         <item name="android:background">#b7a57a</item>
     </style>
 
+    <style name="ButtonStyle" parent="android:style/MediaButton">
+        <item name="android:textSize">22sp</item>
+    </style>
+
 </resources>
