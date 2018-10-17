@@ -22,7 +22,7 @@
 
     <TextView
         android:id="@+id/label1"
-        style="@style/TextStyle"
+        style="@style/Label"
         android:layout_marginEnd="@dimen/activity_horizontal_margin"
         android:layout_marginBottom="@dimen/activity_vertical_margin"
         android:layout_below="@id/logo"
@@ -39,7 +39,7 @@
 
     <TextView
         android:id="@+id/label2"
-        style="@style/TextStyle"
+        style="@style/Label"
         android:layout_marginEnd="@dimen/activity_horizontal_margin"
         android:layout_marginBottom="@dimen/activity_vertical_margin"
         android:layout_below="@id/label1"
@@ -62,7 +62,7 @@
         >
 
         <TextView
-            style="@style/TextStyle"
+            style="@style/Label"
             android:id="@+id/label3"
             android:layout_marginEnd="@dimen/activity_horizontal_margin"
             android:layout_marginBottom="@dimen/activity_vertical_margin"
